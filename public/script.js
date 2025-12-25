@@ -3,7 +3,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebas
 import { getFirestore, collection, getDocs, doc, setDoc, updateDoc, arrayUnion, arrayRemove, getDoc, addDoc } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
-import { initializeApp } from "firebase/app";
+// importimportㄥ{ port { initia  "firebase/app";
 // import { getAnalytics } from "firebase/analytics";
 
 // 2. Firebase Config (使用你提供的 Key)
@@ -377,3 +377,4 @@ document.getElementById('admin-upload-btn').addEventListener('click', async () =
 // 啟動程式
 
 init();
+
