@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "原子習慣",
+    "author": "James Clear",
+    "category": "自我成長",
+    "rating": 4.8,
+    "tags": ["心理學", "習慣", "生產力"],
+    "description": "每天進步1%，一年後你會進步37倍。細微改變帶來巨大成就的實證法則。",
+    "image": "https://placehold.co/300x450/EEE/31343C?text=Atomic+Habits"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript 大全",
+    "author": "David Flanagan",
+    "category": "科技",
+    "rating": 4.5,
+    "tags": ["程式設計", "前端", "Web"],
+    "description": "被譽為 JavaScript 聖經，涵蓋 ES6+ 最新標準，前端工程師必備案頭書。",
+    "image": "https://placehold.co/300x450/EEE/31343C?text=JS+Definitive"
+  },
+  {
+    "id": 3,
+    "title": "設計的心理學",
+    "author": "Don Norman",
+    "category": "設計",
+    "rating": 4.7,
+    "tags": ["UX", "心理學", "產品設計"],
+    "description": "從日常用品到高科技產品，揭開良好設計背後的心理學原理。",
+    "image": "https://placehold.co/300x450/EEE/31343C?text=Design+Psych"
+  },
+  {
+    "id": 4,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "科技",
+    "rating": 4.9,
+    "tags": ["程式設計", "軟體工程", "品質"],
+    "description": "無瑕的程式碼：敏捷軟體開發技巧守則，讓你的程式碼可讀性更高。",
+    "image": "https://placehold.co/300x450/EEE/31343C?text=Clean+Code"
+  },
+  {
+    "id": 5,
+    "title": "被討厭的勇氣",
+    "author": "岸見一郎",
+    "category": "自我成長",
+    "rating": 4.6,
+    "tags": ["阿德勒", "心理學", "哲學"],
+    "description": "自我啟發之父阿德勒的哲學課，讓你有勇氣面對真實的自己。",
+    "image": "https://placehold.co/300x450/EEE/31343C?text=Courage"
+  },
+  {
+    "id": 6,
+    "title": "解憂雜貨店",
+    "author": "東野圭吾",
+    "category": "文學",
+    "rating": 4.8,
+    "tags": ["小說", "懸疑", "溫馨"],
+    "description": "一間能解決煩惱的雜貨店，跨越時空的信件交流，串起溫暖人心的故事。",
+    "image": "https://placehold.co/300x450/EEE/31343C?text=Miracles"
+  }
+]
