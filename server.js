@@ -36,7 +36,7 @@ app.get('/', async (req, res) => {
     try {
         if (!serviceAccount) throw new Error("資料庫未連線");
         
-        const booksRef = db.collection('books');
+        const booksRef = db.collection('book');
         const snapshot = await booksRef.get();
         const books = [];
         snapshot.forEach(doc => books.push({ id: doc.id, ...doc.data() }));
@@ -50,4 +50,5 @@ app.get('/', async (req, res) => {
 });
 
 const PORT = process.env.PORT || 3000;
+
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
